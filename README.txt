@@ -7,3 +7,5 @@ Preparation/ = This folder contain the python scripts and files necessary to per
 Frequency_calculation/ = This folder contains the python script to calculate the relative frequency of each nucleotide in each position of the genome
 Retrieve_genomes_mutated/ = This folder contains the python script to take sequences from an alignment with an specific mutation
 master_script.R = This R script contains all the analysis performed in the manuscript, files generated with the python scripts of the other folders are necessary to perform the analysis
+
+Holi
